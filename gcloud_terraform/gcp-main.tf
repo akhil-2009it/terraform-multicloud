@@ -1,5 +1,6 @@
 # gcp-main.tf | Define GCP Provider, VPC, Subnet, Security Groups, Computer Instance
 
+
 # Setup the GCP provider
 terraform {
   required_version = ">= 0.12"
